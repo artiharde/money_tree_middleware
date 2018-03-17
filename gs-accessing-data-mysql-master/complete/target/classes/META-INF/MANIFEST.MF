@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Arti Harde
+Build-Jdk: 9.0.1
+Implementation-Title: gs-mysql-data
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/gs-mysql-dat
+ a/
+Created-By: Maven Integration for Eclipse
+
