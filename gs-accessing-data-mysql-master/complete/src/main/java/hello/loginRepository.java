@@ -1,9 +1,8 @@
+
+
 package hello;
-
 import org.springframework.data.repository.CrudRepository;
-import org.springframework.data.repository.NoRepositoryBean;
 import org.springframework.transaction.annotation.Transactional;
-
 import hello.login;
 
 // This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository

@@ -9,7 +9,8 @@ import javax.persistence.Table;
 @Entity // This tells Hibernate to make a table out of this class
 @Table(name = "company")
 public class company {
-    @Id
+
+	@Id
     @GeneratedValue(strategy=GenerationType.AUTO)
     private Integer cid;
 
@@ -49,5 +50,4 @@ public class company {
 	public void setCap(String cap) {
 		this.cap = cap;
 	}
-    
 }

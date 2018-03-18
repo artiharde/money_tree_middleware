@@ -3,7 +3,7 @@ package hello;
 public class stock_data {
 	
 	public String company_name;
-	public String cur_date;
+	public String date;
 	public String open;
 	public String high;
 	public String  low;
